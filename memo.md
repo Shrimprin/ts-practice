@@ -13,3 +13,13 @@ $ node dist/<ファイル名>
 ``` bash
 $ npx tsc --watch
 ```
+
+### TSの型
+#### プリミティブ型
+- 文字列
+- 数値
+- 真偽値
+- BigInt
+- null
+- undefined
+- シンボル
