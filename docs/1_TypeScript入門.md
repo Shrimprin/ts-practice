@@ -1,0 +1,21 @@
+### 1. TypeScriptの基礎的な理解
+TypeScriptは、JavaScriptを拡張した a の一種です。TypeScriptは b システムを持ち、変数や式に追加の情報である c を記述できます。
+
+また、c を記述しなくてもコンパイラが変数や関数の型を導き出してくれる d という機能を持っていることも特徴です。
+
+TypeScriptコンパイラには2つの機能があります。
+
+1つは書かれたコードに対する型チェック、もう一つはTypeScriptコードから型に関する情報を取り除き、JavaScriptコードに戻す e です。
+e の過程で、モダンなJavaScript構文を古い実行環境で動作するように変換することもできます。
+
+a. AltJS
+b. 静的型
+c. 型注釈
+d. 型推論
+e. トランスパイル
+
+### 2. TypeScriptを実行してみる
+https://www.typescriptlang.org/play/?#code/PQKgBA+l09aNHqgLm0BOJgkhkGZRh1BkGYMh-BkBEMgYgySykRgjABQVAxgPYB2AzgC5gBmArgDY8ByAQwC2AUwBcYNgCcAlowDmYALxgARACt6AC0ZgAJvVFqA3GGDAwjEaLCBrBims5ihKkDgxoCztHIHkGQAYMgVQZAEQY6JjYwQQUJKy5hACNRaRUwACYABjMLcMj7aLiE108fAOCQlnoeUQA6HnoFAApuPiExAEoTUuZyqpr6iNE2mlASMhgwQGUGMcBpBkBIhkBoOUB7BkAL30AxtMxAKwZAwHMGPyDhkagKallhAAd6aXZWAE8T2wBvMABRAEcuQR4AGieAD1vaVi+-HorAAgowrmAAL6caT0YRgADkAAFrrcALS0bTvCqKUTMYBcViyHjMBE0VG2WiCZh4pIAbSoYB+f1YAB4gaDwayKfQOJxeAIbAA+IUfRnM0T-VkvN48bk3US8-lNGxfGTyBQisVMx6-SVsjlgq7y25Kvpa8W6lnS17vE2Kvl9L6MGLxaQWgC6VCAA
+
+### 資料
+https://bootcamp.fjord.jp/practices/237
